@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\net5.0\LargestInteger.exe
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\net5.0\LargestInteger.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\net5.0\LargestInteger.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\net5.0\LargestInteger.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\net5.0\LargestInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\net5.0\ref\LargestInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\net5.0\LargestInteger.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\net5.0\LargestInteger.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\net5.0\LargestInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\net5.0\LargestInteger.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\net5.0\LargestInteger.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\net5.0\LargestInteger.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\net5.0\LargestInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\net5.0\ref\LargestInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\net5.0\LargestInteger.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\net5.0\LargestInteger.genruntimeconfig.cache

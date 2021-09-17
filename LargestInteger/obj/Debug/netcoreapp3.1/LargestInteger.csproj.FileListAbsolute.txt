@@ -1,0 +1,13 @@
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\netcoreapp3.1\LargestInteger.exe
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\netcoreapp3.1\LargestInteger.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\netcoreapp3.1\LargestInteger.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\netcoreapp3.1\LargestInteger.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\netcoreapp3.1\LargestInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\bin\Debug\netcoreapp3.1\LargestInteger.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\netcoreapp3.1\LargestInteger.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\netcoreapp3.1\LargestInteger.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\netcoreapp3.1\LargestInteger.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\netcoreapp3.1\LargestInteger.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\netcoreapp3.1\LargestInteger.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\netcoreapp3.1\LargestInteger.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\LargestInteger\obj\Debug\netcoreapp3.1\LargestInteger.genruntimeconfig.cache
